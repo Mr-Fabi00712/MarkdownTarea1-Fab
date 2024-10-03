@@ -24,3 +24,4 @@ Para obtener más información detallada sobre el direccionamiento IP, consulta 
 * Aprender sobre la asignación y uso de direcciones IP.
 * Diferenciar entre rangos públicos y privados.
 
+XD
